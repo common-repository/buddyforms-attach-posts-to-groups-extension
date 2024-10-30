@@ -1,0 +1,34 @@
+{
+  "name": "themekraft/buddyforms-attach-post-with-group",
+  "description": "Create engaged communities with every post.",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "buddypress",
+    "user",
+    "members",
+    "profiles",
+    "custom post types",
+    "taxonomy",
+    "frontend posting",
+    "frontend editing",
+    "groups",
+    "post attached to groups"
+  ],
+  "homepage": "https://themekraft.com/products/attach-posts-with-groups/",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Sven Lehnert",
+      "email": "svenl@themekraft.com"
+    },
+    {
+      "name": "Guillermo Figueroa Mesa",
+      "email": "gfirem@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  	"consolidation/robo": "^1.0.0",
+    "bamarni/composer-bin-plugin": "dev-master"
+  }
+}
